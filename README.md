@@ -40,22 +40,22 @@
 
 ## Key Highlights:
 
-🔧 Technical Skills: Proficient in C++, Python, Java, JavaScript, and a range of ML Libraries & Web Technologies.  
-📚 Education: Bachelor's from MMMUT and currently pursuing a Masters at the University of Florida.  
-🚀 Experience: Roles at CloudNuro.ai, University of Florida, Tata Consultancy Services, and a unique stint with the School of Innovation by Facebook.  
-🏆 Achievements: Stellar performance in competitive coding, academic contributions, and leadership roles in collegiate extracurricular activities.  
+• Language: C++, Python, Java, C, JavaScript, TypeScript, PHP, MySQL 
+• Web Technologies: HTML5, CSS3, ReactJS, BootStrap5, AJAX, Django, RESTful APIs  
+• ML Libraries: SciPy, NumPy, OpenCV, Keras, TensorFlow, Pandas, Scikit, Matplotlib
+• Tools: REST, JIRA, Postman, Git, GitHub, Linux, Azure, Docker, Visual Studio Code, IntelliJ, PyCharm
+• Certifications: Problem Solving (Intermediate), Software Testing, Cloud Computing: Core Concepts
 
 ### Roles I see myself to be a perfect fit in:
-![Backend](https://img.shields.io/badge/Backend-sky?style=for-the-badge&labelColor=black&logo=backend&logoColor=F0DB4F)
-![Full Stack Development](https://img.shields.io/badge/Full-stack-blue?style=for-the-badge&logo=fullstack&logoColor=F0DB4F)
-![Machine Learning](https://img.shields.io/badge/Machine-learning-green?style=for-the-badge&labelColor=black&logo=fullstack&logoColor=F0DB4F)
+![Front-End Developer](https://img.shields.io/badge/Backend-sky?style=for-the-badge&labelColor=black&logo=backend&logoColor=F0DB4F)
+![Full-Stack Developer](https://img.shields.io/badge/Full-stack-blue?style=for-the-badge&logo=fullstack&logoColor=F0DB4F)
+![Machine Learning Engineer](https://img.shields.io/badge/Machine-learning-green?style=for-the-badge&labelColor=black&logo=fullstack&logoColor=F0DB4F)
 
 ### Languages I code
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&labelColor=black&logo=c++&logoColor=F0DB4F)
 ![Java](https://img.shields.io/badge/Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=grey)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Web Technologies & Frameworks
@@ -74,7 +74,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ### ML Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -91,19 +90,19 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/AseemBaranwal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AseemBaranwal&theme=radical&border=7F3FBF&background=0D1117" alt="Aseem GitHub streak"/>
+  <a href="https://github.com/suryansh2511">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh2511&theme=radical&border=7F3FBF&background=0D1117" alt="Suryansh GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AseemBaranwal">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AseemBaranwal&theme=radical" alt="Aseem GitHub Contribution"/>
+  <a href="https://github.com/suryansh2511">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryansh2511&theme=radical" alt="Suryansh GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/AseemBaranwal"><img alt="Aseem Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AseemBaranwal&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/AseemBaranwal"><img alt="Aseem Top language" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AseemBaranwal&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/suryansh2511"><img alt="Suryansh Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=suryansh2511&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/suryansh2511"><img alt="Suryansh Top language" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=suryansh2511&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
