@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-     Hello! I'm Suryansh Kumar Pathak, a recent Computer Science graduate from the University of Massachusetts Lowell. With a strong background in both software development and research, I've had the privilege of working on diverse projects, ranging from augmented reality applications to deep learning models. My experiences have given me proficiency in a variety of technical skills such as C++, Python, Java, and many more. Not only am I enthusiastic about crafting robust software, but I'm also deeply involved in academic research, particularly in the fields of Natural Language Processing and data visualization. 」
+     Hello! I'm Suryansh Kumar Pathak, a recent Computer Science graduate from the University of Massachusetts Lowell with a strong academic background and a hunger for knowledge and growth. Seeking       full-time opportunities to contribute my skills and enthusiasm to a dynamic and innovative organization.
     <br>
     <br>
   </samp>
@@ -31,7 +31,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Problem-solver, backend & full-stack developer, Data Science Enthusiast <br/><br/>
+ ✌️ &emsp; Problem-solver, backend & full-stack developer, Data S <br/><br/>
  ❤️ &emsp; Building full-stack applications and intgrating them with machine learning<br/><br/>
  📧 &emsp; Feel free to reach me out at suryansh.kumarpathak@gmail.com <br/><br/>
 
