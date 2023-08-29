@@ -44,12 +44,13 @@
 • Web Technologies: HTML5, CSS3, ReactJS, BootStrap5, AJAX, Django, RESTful APIs  <br>
 • ML Libraries: SciPy, NumPy, OpenCV, Keras, TensorFlow, Pandas, Scikit, Matplotlib <br>
 • Tools: REST, JIRA, Postman, Git, GitHub, Linux, Azure, Docker, Visual Studio Code, IntelliJ, PyCharm <br>
-• Certifications: Problem Solving (Intermediate), Software Testing, Cloud Computing: Core Concepts
+• Certifications: Problem-Solving (Intermediate), Software Testing, Cloud Computing: Core Concepts
 
 ### Roles I see myself to be a perfect fit in:
 ![Front-End Developer](https://img.shields.io/badge/Backend-sky?style=for-the-badge&labelColor=black&logo=backend&logoColor=F0DB4F)
+![Backend Developer](https://img.shields.io/badge/Machine-learning-green?style=for-the-badge&labelColor=black&logo=fullstack&logoColor=F0DB4F)
 ![Full-Stack Developer](https://img.shields.io/badge/Full-stack-blue?style=for-the-badge&logo=fullstack&logoColor=F0DB4F)
-![Machine Learning Engineer](https://img.shields.io/badge/Machine-learning-green?style=for-the-badge&labelColor=black&logo=fullstack&logoColor=F0DB4F)
+
 
 ### Languages I code
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
