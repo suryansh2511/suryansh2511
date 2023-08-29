@@ -40,10 +40,10 @@
 
 ## Key Highlights:
 
-• Language: C++, Python, Java, C, JavaScript, TypeScript, PHP, MySQL 
-• Web Technologies: HTML5, CSS3, ReactJS, BootStrap5, AJAX, Django, RESTful APIs  
-• ML Libraries: SciPy, NumPy, OpenCV, Keras, TensorFlow, Pandas, Scikit, Matplotlib
-• Tools: REST, JIRA, Postman, Git, GitHub, Linux, Azure, Docker, Visual Studio Code, IntelliJ, PyCharm
+• Language: C++, Python, Java, C, JavaScript, TypeScript, PHP, MySQL <br>
+• Web Technologies: HTML5, CSS3, ReactJS, BootStrap5, AJAX, Django, RESTful APIs  <br>
+• ML Libraries: SciPy, NumPy, OpenCV, Keras, TensorFlow, Pandas, Scikit, Matplotlib <br>
+• Tools: REST, JIRA, Postman, Git, GitHub, Linux, Azure, Docker, Visual Studio Code, IntelliJ, PyCharm <br>
 • Certifications: Problem Solving (Intermediate), Software Testing, Cloud Computing: Core Concepts
 
 ### Roles I see myself to be a perfect fit in:
