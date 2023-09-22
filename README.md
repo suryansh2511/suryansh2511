@@ -16,6 +16,9 @@
 </p>
 
 <p align="center">
+ <a href="https://suryansh2511.github.io" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="akash" />
+ </a>
  <a href="https://linkedin.com/in/suryansh2511" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash"/>
  </a>
